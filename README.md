@@ -165,10 +165,4 @@ We welcome contributions! Please open an issue or submit a pull request for sugg
 
 ---
 
-## **Contact**  
-
-For queries, reach out to **[your_email@example.com](mailto:your_email@example.com)**.  
-
---- 
-
 Let me know if you need adjustments or additional sections!
