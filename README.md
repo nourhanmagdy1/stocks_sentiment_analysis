@@ -1,5 +1,3 @@
----
-
 # **Stock Sentiment Analysis API**  
 
 This API provides sentiment analysis for stock-related news using cutting-edge **Large Language Models (LLMs)** and web scraping techniques. It enables users to assess the sentiment of market trends, individual stocks, or sectors based on the latest news.  
