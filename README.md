@@ -1,5 +1,3 @@
-Here’s a structured **README** for a **Stock Sentiment Analysis API** leveraging **LLMs** and web scraping:  
-
 ---
 
 # **Stock Sentiment Analysis API**  
