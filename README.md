@@ -164,5 +164,3 @@ This project is licensed under the [MIT License](LICENSE).
 We welcome contributions! Please open an issue or submit a pull request for suggestions and fixes.  
 
 ---
-
-Let me know if you need adjustments or additional sections!
